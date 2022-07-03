@@ -1,0 +1,4 @@
+currentAge,retirementAge,currentIncome,spouseIncome,currentRetirementSavingBal,currentAnnualSavingsForRet,savingIncreaseRate,socialSecurityOption,maritalStatus,overrideSocialSecurityAmount,wantToUpdateDefault,additionalIncome,retirementDuration,wantToIncludeInflation,expectedInflationRat,retirementAnnualIncomePercent,preRetirementInvestReturn,postRetirementInvestReturn
+40,68,100000,,500000,10,2,Yes,Married,,,,,,,,,
+40,68,100000,,500000,10,2,Yes,Single,,,,,,,,,
+40,68,100000,,500000,10,2,No,,,,,,,,,,
